@@ -1,2 +1,2 @@
-# web-technologies-using-java-lab
-Web Technologies using JAVA
+# Web Technologies using JAVA (Lab)
+
