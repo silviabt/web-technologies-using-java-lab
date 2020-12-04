@@ -19,11 +19,22 @@
 /Lab5/.idea
 /Lab5/target
 /Lab5/Lab5.iml
+/Lab5/.gitignore
 
 /Lab7/.idea
 /Lab7/target
 /Lab7/Lab7.iml
+/Lab7/.mvn
+/Lab7/.gitignore
 
 /Lab8/.idea
 /Lab8/target
 /Lab8/Lab8.iml
+/Lab8/.mvn
+/Lab8/.gitignore
+
+/Lab9/.idea
+/Lab9/target
+/Lab9/Lab9.iml
+/Lab9/.mvn
+/Lab9/.gitignore
